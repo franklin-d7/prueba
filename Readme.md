@@ -4,8 +4,7 @@
  2. develop
  3. feature
  4. release
- 5. hotfix
-
+ 5. hola
 
 [UEB](https://ueb.edu.ec)
 
